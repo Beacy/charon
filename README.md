@@ -1,5 +1,5 @@
 <div align="center"><img src="./docs/images/charonlogo.svg" /></div>
-<h1 align="center">Charon<br/>Клієнт проміжного програмного забезпечення розподіленого валідатора client</h1>
+<h1 align="center">Charon<br/>Клієнт проміжного програмного забезпечення розподіленого валідатора</h1>
 
 <p align="center"><a href="https://github.com/obolnetwork/charon/releases/"><img src="https://img.shields.io/github/tag/obolnetwork/charon.svg"></a>
 <a href="https://github.com/ObolNetwork/charon/blob/main/LICENSE"><img src="https://img.shields.io/github/license/obolnetwork/charon.svg"></a>
@@ -31,7 +31,7 @@ Charon використовується стейкерами для розпод
 - [Конфігурація](docs/configuration.md): Налаштування вузла charon
 - [Архітектура](docs/architecture.md): Огляд архітектури кластерів та вузлів charon
 - [Структура проекту](docs/structure.md): Структура теки проекту
-- [Модель розгалужень та релізів](docs/branching.md): Модель розгалуження та релізів у Git'і
+- [Модель розгалужень та релізів](docs/branching.md): Модель розгалуження та релізів у Git
 - [Настанови щодо переходу](docs/goguidelines.md): Настанови та принципи, що стосуються розробки на основі go
 - [Внесок](docs/contributing.md): Як зробити внесок у charon; githooks, шаблони PR тощо.
 
